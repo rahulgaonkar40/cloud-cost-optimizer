@@ -12,4 +12,8 @@ This project demonstrates how to reduce AWS cloud costs using Terraform and cost
 - Estimated monthly savings: $52+
 
 ## Project Structure
-
+cloud-cost-optimizer/
+├── terraform/
+├── scripts/
+├── reports/
+└── .github/workflows/
